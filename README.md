@@ -1,5 +1,6 @@
 # Demo Git Repository
 
+This is a demo.
 
 ## Ipsum Below
 
