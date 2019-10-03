@@ -1,6 +1,5 @@
 # Demo Git Repository
 
-This is the first Line
 
 ## Ipsum Below
 
